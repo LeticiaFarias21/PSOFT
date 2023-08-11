@@ -1,4 +1,3 @@
-
 # Aula 06
 
 Date: August 11, 2023 8:00 AM
@@ -65,4 +64,38 @@ Assert - no lab fazer o necessário, na aula ta mostrando outromos modos de asse
 
 ![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2011.png)
 
-**Falta últimos 15 min da aula**
+Controller para fazer a requisição funcionar
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2012.png)
+
+- Cria a interface para controllar as versões
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2013.png)
+
+- nova classe
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2014.png)
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2015.png)
+
+- implementaçao da terceira camada REPO
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2016.png)
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2017.png)
+
+- Como nao usa jpa tem o volatil
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2018.png)
+
+que implementa a interface
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2019.png)
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2020.png)
+
+Tarefa Repo
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2021.png)
+
+![Untitled](Aula%2006%20ef64cd31899247c88a753dd85d5419f7/Untitled%2022.png)
